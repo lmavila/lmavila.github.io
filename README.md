@@ -14,7 +14,7 @@
 
 I have developed iOS (iPhone and iPad) as part of teams an individually.
 
-- [MasterMix (a simple PCR mastermix calculator)](http://avilasistemas.com/press/sheet.php?p=MasterMix)  : [appstore.com](http://appstore.com/MasterMix)
+- MasterMix (a simple PCR mastermix calculator) [description](http://avilasistemas.com/press/sheet.php?p=MasterMix)  : [download](http://appstore.com/MasterMix)
 - [Don Julio (a platformer videogame)](http://avilasistemas.com/press/sheet.php?p=DonJulio)
 
 
