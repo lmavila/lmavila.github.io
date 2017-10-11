@@ -1,5 +1,5 @@
 ---
-title: "Montecarlo Estimation"
+title: "Montecarlo Approximation"
 author: "Luis Avila"
 date: "7/28/2016"
 output: html_document
