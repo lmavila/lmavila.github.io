@@ -7,4 +7,4 @@
 
 - [A Markov Aproximation Tutorial](./markdown_files/MonteCarloTutorial.html)
 - [Classification with Random Forest](./markdown_files/RF_Toy.html) 
-- A Hidden Markov Tutorial
+- [A Hidden Markov Tutorial](https://github.com/lmavila/HMMTutorial)
