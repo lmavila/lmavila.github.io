@@ -10,6 +10,10 @@
 - [A Hidden Markov Tutorial](https://github.com/lmavila/HMMTutorial)
 
 
+### R packges
+
+- DPP: Inference of Parameters of Normal Distributions from a Mixture of Normals [available on CRAN] (https://CRAN.R-project.org/package=DPP)
+
 ### iOS apps
 
 I have developed iOS (iPhone and iPad) as part of teams an individually.
