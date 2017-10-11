@@ -12,7 +12,7 @@
 
 ### R packges
 
-- DPP: Inference of Parameters of Normal Distributions from a Mixture of Normals [available on CRAN] (https://CRAN.R-project.org/package=DPP)
+- DPP: Inference of Parameters of Normal Distributions from a Mixture of Normals [available on CRAN](https://CRAN.R-project.org/package=DPP)
 
 ### iOS apps
 
