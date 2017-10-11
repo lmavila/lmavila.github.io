@@ -5,6 +5,6 @@
 
 ### R Tutorials
 
-- A Markov Aproximation Tutorial
+- [A Markov Aproximation Tutorial](./markdown_files/MonteCarloTutorial.html)
 - [Classification with Random Forest](https://lmavila.github.io/markdown_files/RF_Toy.html) 
 - A Hidden Markov Tutorial
