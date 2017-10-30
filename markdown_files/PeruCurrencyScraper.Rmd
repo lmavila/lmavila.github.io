@@ -17,7 +17,7 @@ Here I will demostrate a simple web scraping example using a table of exchange r
 ![Sunat currency exchange for Oct 2017](sunatPage.png)
 
 
-### First we load the `rvest` library and the webpage we want to scraper using its url.
+### First we load the `rvest` library and the webpage we want to scrape using its url.
 ```{r}
   library(rvest)
   url <- 'http://www.sunat.gob.pe/cl-at-ittipcam/tcS01Alias'
