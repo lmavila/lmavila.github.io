@@ -8,7 +8,7 @@
 - [A Markov Aproximation Tutorial](./markdown_files/MonteCarloTutorial.html)
 - [Classification with Random Forest](./markdown_files/RF_Toy.html) 
 - [A Hidden Markov Tutorial](https://github.com/lmavila/HMMTutorial)
-- [A simple web scraper using rvest](https://lmavila.github.io/lmavila/markdown_files/PeruCurrencyScraper.html)
+- [A simple web scraper using rvest](https://lmavila.github.io/markdown_files/PeruCurrencyScraper.html)
 
 ### R packages
 
