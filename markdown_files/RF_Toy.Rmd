@@ -71,6 +71,7 @@ plot(pca.results$PC1,pca.results$PC2,col=pca.results$ir.species,pch=16)
 
 
 ```
+
 We notice the species separate over PC1. Still some overlp between versicolor and virginica.
 
 ## Now using the Random Forest  method
